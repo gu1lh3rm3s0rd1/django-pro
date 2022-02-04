@@ -9,6 +9,7 @@ gunicorn = "*"
 requests = "*"
 django-heroku = "*"
 runtime = "*"
+npm = "*"
 
 [dev-packages]
 
